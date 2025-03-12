@@ -18,7 +18,7 @@ double triangleArea(double a, double b, double c) {
     double half = (a + b + c) / 2.0; // вычисляем полупериметр
     return sqrt(half * (half - a) * (half - b) * (half - c));
 }
-
+//123123
 int main() {
     double a, b, c;
     cout << "Введите длины сторон треугольника: ";
